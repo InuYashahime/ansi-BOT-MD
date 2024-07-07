@@ -36,10 +36,14 @@
 
 3. Clona el repositorio de YuGi-BOT:
     ```bash
-    git clone https://github.com/Eliasar54/ansi-BOT-MD.git &&  cd ansi-BOT-MD && yarn && npm install
+    git clone https://github.com/Eliasar54/ansi-BOT-MD.git &&  cd ansi-BOT-MD
+   ```
+    
+4. ```bash
+   npm install
    ```
    
-6. inicia el bot:
+5. inicia el bot:
     ```bash
     npm start
     ```
