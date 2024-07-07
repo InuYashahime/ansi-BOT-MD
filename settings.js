@@ -25,7 +25,7 @@ async function getCreadorFromAPI() {
     global.creador = response.data[0].symbol
   } catch (error) {
     console.error('Error al obtener el creador de la API:', error)
-    global.creador = '*mus*'
+    global.creador = '*no encontrádo*'
   }
 }
 
@@ -102,7 +102,7 @@ global.imagen5 = fs.readFileSync('./media/menu5.jpg')
 global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 global.verificar = fs.readFileSync('./media/menu2.jpg')
 //---------[ ENLACES ]---------
-global.md = 'https://github.com/Eliasar54/YuGi-BOT-1.2.git'
+global.md = 'https://github.com/Eliasar54/ansi-BOT-MD.git'
 global.yt = 'https://www.youtube.com/@Eliasar_yt'
 global.tiktok = 'https://www.tiktok.com/@eliasar_yt?_t=8mjJpoJfOBK&_r=1'
 global.fb = 'https://www.facebook.com/profile.php?id=100087710532984&mibextid=kFxxJD'
