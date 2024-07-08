@@ -38,8 +38,11 @@
     ```bash
     git clone https://github.com/Eliasar54/ansi-BOT-MD.git &&  cd ansi-BOT-MD
    ```
-  
+    para que el bot cree stickers
    
+  ```bash
+   unzip tmp.zip
+  ``` 
 4. descargarge las dependenciaas
  
     ```bash
