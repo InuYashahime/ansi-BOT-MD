@@ -34,16 +34,19 @@
     apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
     ```
 
-3. Clona el repositorio de YuGi-BOT:
+3. Clona el repositorio de ansi-BOT:
     ```bash
     git clone https://github.com/Eliasar54/ansi-BOT-MD.git &&  cd ansi-BOT-MD
    ```
-    
-4. ```bash
+  
+   
+4. descargarge las dependenciaas
+ 
+    ```bash
    npm install
    ```
    
-5. inicia el bot:
+7. inicia el bot:
     ```bash
     npm start
     ```
