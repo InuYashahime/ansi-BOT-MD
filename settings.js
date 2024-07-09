@@ -5,7 +5,7 @@ const { en, es, ar, id, pt, rs } = require('./libs/idiomas/total-idiomas.js')
 const axios = require('axios')
 
 //---------[ PROPIETARIO/OWNER ]---------
-global.owner = [["50582340051", "Owner", true], ["595975726335"], ["51929838430"],]
+global.owner = [["50582340051", "Owner", true], ["595975726335"], ["51918534156"],]
 global.mods = []
 global.premium = []
 global.blockList = []
@@ -149,7 +149,7 @@ global.error = '⛔'
 global.xmoji = '🔞' 
 
 //---------------[ NIVELES, ADVERTENCIA ]----------------
-global.multiplier = 40 // Cuanto más alto, más difícil subir de nivel 
+global.multiplier = 50 // Cuanto más alto, más difícil subir de nivel 
 global.maxwarn = '4' // máxima advertencias 
 
 //----------------------------------------------------
