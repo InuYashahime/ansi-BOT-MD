@@ -20,7 +20,7 @@
 
 - Termux instalado en tu dispositivo Android.
 - Conexión a Internet estable.
-- termux https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file
+- termux [![Descarga Termux](https://img.shields.io/badge/Descarga-Termux-green?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBkPSJNMTIgMkM2LjQ3NyAyIDIgNi40NzcgMiAxMnM0LjQ3NyAxMCAxMCAxMCAxMC00LjQ3NyAxMC0xMFMxNy41MjMgMiAxMiAyem0wIDE4Yc0LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMTIgMTBsLTQgNGg4eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==)](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
 
 ## Comandos de instalación
 
