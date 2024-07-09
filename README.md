@@ -53,6 +53,12 @@
     ```bash
     npm start
     ```
+    
+    o puedes copiar un solo comando
+   ```bash
+   termux-setup-storage && apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn && git clone https://github.com/Eliasar54/ansi-BOT-MD.git && cd ansi-BOT-MD && unzip tmp.zip && npm install && npm start
+   ```
+   
 ## Activar en caso de detenerse en Termux
 
 Si después de instalar el bot y Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
