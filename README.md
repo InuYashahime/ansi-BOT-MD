@@ -92,6 +92,8 @@ Para obtener un nuevo código QR, sigue estos pasos:
 
     [![Registrarse en Infinity](https://img.shields.io/badge/Registrarse%20en-Infinity%20Wallet-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBkPSJNMTIgMkM2LjQ3NyAyIDIgNi40NzcgMiAxMnM0LjQ3NyAxMCAxMCAxMCAxMC00LjQ3NyAxMC0xMFMxNy41MjMgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMTIgNmwtNSA1aDN2NWgydi01aDN6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)](https://dashboard.infinitywa.xyz/register?ref=431DXXEI)
 
-https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=footer&animation=twinkling&speed=100
+
    
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
+
 
