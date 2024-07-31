@@ -35,7 +35,7 @@ getCreadorFromAPI()
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
 global.botNumberCode = "994407358344" //Ejemplo: +59309090909
-global.phoneNumber = "994407358344"
+global.phoneNumber = "994406674437"
 
 //---------[ FECHA/IDIOMAS ]---------
 global.place = 'America/Bogota' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
